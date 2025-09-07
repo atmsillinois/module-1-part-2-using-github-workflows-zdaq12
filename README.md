@@ -1,7 +1,7 @@
-# Create a README.md
+# README.md
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+This repo contains a Python function to calculate the sum of two numbers from user input and print the result to the terminal.
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
 
-Did you add an open source software license?
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
